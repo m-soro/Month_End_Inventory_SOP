@@ -3,4 +3,6 @@
 MOWAS Month End Inventory Procedures
 
 1. Create a schedule
-1.1 ahdhdhdhd    
+* hdhdhdhdfhd
+* jfjfjfj
+2. shdhshfhsf
