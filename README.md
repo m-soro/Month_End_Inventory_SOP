@@ -1,6 +1,6 @@
 # Month End Inventory SOP
 
-MOWAS Month End Inventory Procedures
+**MOWAS Month End Inventory Procedures**
 
 1. Create a schedule - Coordinating with department and accounting representatives
 
