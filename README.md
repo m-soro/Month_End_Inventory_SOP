@@ -48,4 +48,4 @@ Occurs in the months of:
 * September
 * December
 
-* During quarterly inventories, Outlet and Accounting rep counts the inventory. Step 5 is skipped.
+* During quarterly inventories, Outlet and Accounting rep counts the inventory in full. Step 5 is skipped.
