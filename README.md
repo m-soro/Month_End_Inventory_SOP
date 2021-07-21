@@ -10,6 +10,7 @@
 2. Before opening the period inventory:
 * Are all outlet transfers completed?
 * Are all receiving invoices entered? 
+* Are there any credit memos to be posted?
 * Are storeroom requisitions posted?
 * Are maintain guides updated? 
   * Check for duplicates
