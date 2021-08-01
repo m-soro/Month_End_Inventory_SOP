@@ -52,7 +52,6 @@ Occurs in the months of:
 * During quarterly inventories, Outlet and Accounting rep counts the inventory in full. Step 5 is skipped.
 
 
-Xbar = <img src="https://render.githubusercontent.com/render/math?math=\bar{X}" >
 
-<img src="https://render.githubusercontent.com/render/math?math=\sigma^2" >
+
 
